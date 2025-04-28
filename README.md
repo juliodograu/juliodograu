@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">👾 Cursando Ciência da computação<br>💰 Atualmente trabalhando com contabilidade<br>☕ adoro café</h5>
+<h3 align="left">👾 Cursando Ciência da computação<br>💰 Atualmente trabalhando com contabilidade<br>☕ adoro café</h3>
 
 ###
 
